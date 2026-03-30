@@ -74,4 +74,5 @@ python run.py --test_dir test_dir --model model.keras --labels labels.json --out
 *   **Inference Speed:** ~15ms per character on CPU.
 
 ## Author
-**Mohamed Ansaff Abdul Salam**
+**NAING NAING**
+
